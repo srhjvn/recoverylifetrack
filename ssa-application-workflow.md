@@ -7,7 +7,7 @@
 - **Output Type:** Process Guide
 - **Launch Critical:** Yes
 - **Last Updated:** 2026-04-23
-- **Related Files:** medical-documentation-checklist.md, master-deadline-and-contact-tracker.md, README.md
+- **Related Files:** medical-documentation-checklist.md, work-history.md, symptom-function-summary.md, provider-list.md, master-deadline-and-contact-tracker.md, README.md
 
 ---
 
