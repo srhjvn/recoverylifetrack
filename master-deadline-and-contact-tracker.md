@@ -90,9 +90,9 @@ Track the people, dates, deadlines, and next actions across the full project in 
 ---
 
 ## Current Priorities
-1. 
-2. 
-3. 
+1. build frameworked plan
+2. gather all required information
+3. be ready to move forward next week 
 
 ---
 
