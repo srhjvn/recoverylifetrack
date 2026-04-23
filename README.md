@@ -307,3 +307,29 @@ Build a complete and organized support file that improves readiness for disabili
   /04-support
   /05-trackers
   README.md
+
+## Core Files
+- `medical-documentation-checklist.md` — organizes medical records, provider info, and symptom/function evidence
+- `ssa-application-workflow.md` — step-by-step application workflow and case-tracking guide
+- `lender-hardship-log.md` — call log and option-comparison file for lender hardship communication
+- `support-resources.md` — resource directory and outreach log for legal, advocacy, and nonprofit support
+- `master-deadline-and-contact-tracker.md` — top-level tracker for contacts, deadlines, follow-ups, and risks
+
+## First Operational Layer
+- `provider-list.md` — source-of-truth list for medical and support providers
+- `records-request-log.md` — tracker for records requests, follow-ups, and receipts
+- `work-history.md` — reusable work-history source file for SSA preparation
+- `symptom-function-summary.md` — plain-language functional impact summary for forms and appointments
+
+## Suggested Use Order
+1. update `master-deadline-and-contact-tracker.md`
+2. work through `medical-documentation-checklist.md`
+3. fill out `provider-list.md` and `records-request-log.md`
+4. draft `symptom-function-summary.md`
+5. draft `work-history.md`
+6. prepare from `ssa-application-workflow.md`
+7. document lender communication in `lender-hardship-log.md`
+8. track outside support in `support-resources.md`
+
+## Notes
+Adapt file names, metadata, or folder locations to fit your repo structure.
