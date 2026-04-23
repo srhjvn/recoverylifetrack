@@ -1,5 +1,4 @@
-# recoverylifetrack
-recovery plan 
+ 
 # Disability Benefits and Financial Stabilization Project
 
 ## Metadata
